@@ -1,0 +1,12 @@
+﻿  BruteForce.cpp
+  CaeserEncryption.cpp
+  CaserDecryption.cpp
+  filehandling.cpp
+  Home.cpp
+  RSADecryption.cpp
+  RSAEncryption.cpp
+  SharedData.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  BruteForce.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DMProject.vcxproj -> E:\Languages\DMPROJECT\x64\Debug\Cryptex.exe
